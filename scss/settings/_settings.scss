@@ -60,6 +60,8 @@
 //  55. Top Bar
 //  56. Xy Grid
 
+// NOTE: Users of npm needs to change this to a relative path of the node_module
+// e.g. @import '../node_modules/foundation-sites/scss/util/util' (or similiar)
 @import 'util/util';
 
 // 1. Global
